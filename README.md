@@ -28,7 +28,7 @@ Most election analysis starts with who won. This project starts with what change
 
 ## Deliverables
 
-- `YouTube video link: https://www.youtube.com/watch?v=GlAdorPhfVw` — Youtube link
+- `YouTube video link:` https://www.youtube.com/watch?v=GlAdorPhfVw `— Youtube link`
 - `deliverables/Tamil_Nadu_2026_Editorial_Intelligence_Brief_BLACK_FINAL.pptx` — main stakeholder deck
 - `deliverables/Tamil_Nadu_2026_Election_Case_Study_BLACK_FINAL.docx` — written case study and methodology report
 - `deliverables/Tamil_Nadu_2026_Election_Analysis_Workbook.xlsx` — calculation workbook
