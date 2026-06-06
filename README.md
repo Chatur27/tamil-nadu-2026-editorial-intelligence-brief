@@ -44,6 +44,7 @@ Most election analysis starts with who won. This project starts with what change
 ## Data and limitations
 
 The project uses the Codebasics starter-pack election datasets and official result-data context. The 2026 starter-pack data was prepared from the ECI live results portal. Before real broadcast use, figures should be checked against final AC-level Form 20 data where available.
+The raw starter-pack CSV files are not included in this repository. They are available from the Codebasics Resume Project Challenge data pack. The Excel workbook contains the processed calculation tables used for this submission.
 
 This analysis can describe:
 - who won each constituency;
