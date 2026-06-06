@@ -28,9 +28,9 @@ Most election analysis starts with who won. This project starts with what change
 
 ## Deliverables
 
-- `deliverables/Tamil_Nadu_2026_Editorial_Intelligence_Brief_SAFE_FINAL.pptx` — main stakeholder deck
-- `deliverables/Tamil_Nadu_2026_Election_Case_Study_SAFE_FINAL.docx` — written case study and methodology report
-- `deliverables/Tamil_Nadu_2026_Election_Analysis_Workbook_STABLE.xlsx` — calculation workbook
+- `deliverables/Tamil_Nadu_2026_Editorial_Intelligence_Brief_BLACK_FINAL.pptx` — main stakeholder deck
+- `deliverables/Tamil_Nadu_2026_Election_Case_Study_BLACK_FINAL.docx` — written case study and methodology report
+- `deliverables/Tamil_Nadu_2026_Election_Analysis_Workbook.xlsx` — calculation workbook
 - `dashboard/index.html` — static dashboard / editorial control room
 
 ## Methodology summary
